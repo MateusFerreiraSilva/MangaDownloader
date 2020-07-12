@@ -1,0 +1,376 @@
+1594504797243	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileup1VnK"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594504810698	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5Vpwsn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594504817145	Marionette	INFO	Listening on port 44799
+1594504817278	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594504833652	Marionette	INFO	Stopped listening on port 44799
+1594505341814	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefY14lb"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594505347543	Marionette	INFO	Listening on port 46357
+1594505347635	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1594505352769	Marionette	INFO	Stopped listening on port 46357
+1594505551498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJFLfZP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594505556892	Marionette	INFO	Listening on port 44605
+1594505556919	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1159: TypeError: aBrowser is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1594505715198	Marionette	INFO	Stopped listening on port 44605
+1594505715967	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2X2KR4"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594505721241	Marionette	INFO	Listening on port 32911
+1594505721298	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594505771552	Marionette	INFO	Stopped listening on port 32911
+1594505773896	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilean0V5D"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594505779705	Marionette	INFO	Listening on port 43793
+1594505779729	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594506080342	Marionette	INFO	Stopped listening on port 43793
+1594506081404	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJdsJtM"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594506086556	Marionette	INFO	Listening on port 39909
+1594506086619	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594506175917	Marionette	INFO	Stopped listening on port 39909
+1594506486329	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZYDM5r"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594506491375	Marionette	INFO	Listening on port 35857
+1594506491444	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594506622610	Marionette	INFO	Stopped listening on port 35857
+1594507495200	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVqYir3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1594507500802	Marionette	INFO	Listening on port 34737
+1594507500834	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594507519352	Marionette	INFO	Stopped listening on port 34737
+1594507550058	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH91lu2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594507555814	Marionette	INFO	Listening on port 36369
+1594507555875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594507589596	Marionette	INFO	Stopped listening on port 36369
+1594507660815	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV7KarF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594507666311	Marionette	INFO	Listening on port 39035
+1594507666339	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594507682003	Marionette	INFO	Stopped listening on port 39035
+1594507689641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW6qS9C"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594507695262	Marionette	INFO	Listening on port 46307
+1594507695359	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594507796600	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledNoDNG"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594507801911	Marionette	INFO	Listening on port 37527
+1594507801925	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594507831173	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile631D3r"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594507837179	Marionette	INFO	Listening on port 42877
+1594507837207	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594507902197	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIk3l1j"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594507908018	Marionette	INFO	Listening on port 41395
+1594507908118	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594508002981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7xUHeO"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594508008770	Marionette	INFO	Listening on port 46501
+1594508008797	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594508027405	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilespY5yz"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594508032634	Marionette	INFO	Listening on port 43359
+1594508032727	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594585195929	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ2YaW6"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594585205159	Marionette	INFO	Listening on port 46741
+1594585205191	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594585230592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuiEVKg"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594585236250	Marionette	INFO	Listening on port 33193
+1594585236310	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594585311695	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWBU8wX"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594585316790	Marionette	INFO	Listening on port 33009
+1594585316818	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594585600877	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqEk3jg"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594585606505	Marionette	INFO	Listening on port 40065
+1594585606524	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594585931699	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexlMPT2"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594585939162	Marionette	INFO	Listening on port 33117
+1594585939244	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594586205377	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL7pl6G"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594586212696	Marionette	INFO	Listening on port 39535
+1594586212801	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594586414205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaH2AJ1"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594586419921	Marionette	INFO	Listening on port 42757
+1594586419931	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594587244257	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledJizEh"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594587250386	Marionette	INFO	Listening on port 39903
+1594587250488	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594587794012	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB3ktZE"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594587803564	Marionette	INFO	Listening on port 42725
+1594587803578	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594587909980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2zoGt8"
+*** You are running in headless mode.
+1594587916451	Marionette	INFO	Listening on port 38295
+1594587916583	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594588450050	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXJipY0"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594588462600	Marionette	INFO	Listening on port 40325
+1594588462629	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594588462632	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:37387","noProxy":[],"sslProxy":"127.0.0.1:37387"}
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594588664574	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegh4qCP"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594588672865	Marionette	INFO	Listening on port 38553
+1594588672912	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594588672916	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:39781","noProxy":[],"sslProxy":"127.0.0.1:39781"}
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594588725440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileemxrX9"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594588738933	Marionette	INFO	Listening on port 41725
+1594588739844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594588739849	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:35741","noProxy":[],"sslProxy":"127.0.0.1:35741"}
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1594589419734	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegCJS3B"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594589427581	Marionette	INFO	Listening on port 37477
+1594589427665	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594589427669	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:33525","noProxy":[],"sslProxy":"127.0.0.1:33525"}
+1594589525768	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecpGeU1"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594589530992	Marionette	INFO	Listening on port 43939
+1594589531085	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594589531092	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:37263","noProxy":[],"sslProxy":"127.0.0.1:37263"}
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1594589808582	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWTrI5X"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594589814121	Marionette	INFO	Listening on port 45045
+1594589814205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594589838272	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles2Dyql"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594589843694	Marionette	INFO	Listening on port 34861
+1594589843789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594589843870	Marionette	INFO	Stopped listening on port 34861
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+1594589913474	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4ccejx"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594589918592	Marionette	INFO	Listening on port 38173
+1594589918692	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594589919749	Marionette	INFO	Stopped listening on port 38173
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1594589962362	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePlCSO2"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594589968581	Marionette	INFO	Listening on port 43521
+1594589968685	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594590004173	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelOtW1t"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594590009610	Marionette	INFO	Listening on port 41547
+1594590009696	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1594590396801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZq82U7"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594590402123	Marionette	INFO	Listening on port 34293
+1594590402223	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594592262218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile24an0s"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594592267862	Marionette	INFO	Listening on port 38353
+1594592267937	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594592399256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez9rjeI"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594592404287	Marionette	INFO	Listening on port 37651
+1594592404380	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594592499453	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekxML2T"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594592504342	Marionette	INFO	Listening on port 41665
+1594592504380	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594593079806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletayX17"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594593084886	Marionette	INFO	Listening on port 46519
+1594593084939	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594593367030	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesDNtWu"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594593372150	Marionette	INFO	Listening on port 39521
+1594593372246	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594593516532	Marionette	INFO	Stopped listening on port 39521
+1594594553969	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO8vXgg"
+*** You are running in headless mode.
