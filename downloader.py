@@ -12,8 +12,8 @@ def main():
 
 	driver = webdriver.Firefox(options=options)
 
-	mg.get_chapter(driver, root_url, 308)
-	md.download_manga()
+	mg.get_chapters(driver, root_url, 308, 309)
+	# md.download_manga()
 
 	driver.close()
 
