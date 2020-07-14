@@ -2,37 +2,46 @@ import os
 import requests
 import shutil # to save it locally
 import json
+import concurrent.futures
+
+# old way to do threads:
+
+'''
+# import threading
+
+threads = list()
+for img in chapter_imgs:
+	aux = threading.Thread(target=download_img, args=(img, path, num))
+	threads.append(aux)
+	aux.start()
+	num += 1
+
+for index, thread in enumerate(threads):
+	thread.join()
+'''
+
 
 def create_dir(dir_name):
 	if not os.path.isdir(dir_name):
 		# makedirs beacuse parents dir are created
 		os.makedirs(dir_name)
 
-# def download_manga_from_list_txt():
-# 	home = os.path.expanduser('~')
-# 	path = home + '/Downloads/Manga/'
-# 	if not os.path.isfile(path):
-# 		os.mkdir(path)
+def download_img(img, path, num):
+	r = requests.get(img, stream=True)
 
-# 	i = 1
-# 	images = open('download_list.txt', 'r')
-# 	for image in images:		
-# 		# strip removes \n
-# 		link = image.strip()
-# 		r = requests.get(link, stream = True)
-# 		if r.status_code == 200:
-# 			# Set decode_content value to True, otherwise the downloaded image file's size will be zero.
-# 			r.raw.decode_content = True
+	if r.status_code == 200:
+		# Set decode_content value to True, otherwise the downloaded image file's size will be zero.
+		r.raw.decode_content = True
 
-# 			filename = f'page{i}.jpg'
+		filename = f'page_{num}.jpg'
 
-# 			with open(path+filename,'wb') as f:
-# 				shutil.copyfileobj(r.raw, f)
 
-# 			print(f'\tPage {i} Downloaded')
-# 		else:
-# 			print(f'\tPage {i} Couldn\'t be retreived')
-# 		i += 1
+		with open(path+filename,'wb') as f:
+			shutil.copyfileobj(r.raw, f)
+
+		print(f'\tPage {num} Downloaded')
+	else:
+		print(f'\tPage {num} Couldn\'t be retreived')
 
 def download_manga_from_list():
 	with open('download_list.json', 'r') as file:
@@ -50,27 +59,15 @@ def download_manga_from_list():
 		path = f'{home}/Downloads/Manga/{manga_name}/{chapter_id}/'
 		create_dir(path)
 
-		i = 1
+		num = 1
 		chapter_number = chapter_id.split('_')[1]
 		print(f'Downloading chapter {chapter_number}...')
-		for img in chapter_imgs:
-			r = requests.get(img, stream=True)
 
-			if r.status_code == 200:
-				# Set decode_content value to True, otherwise the downloaded image file's size will be zero.
-				r.raw.decode_content = True
+		with concurrent.futures.ThreadPoolExecutor() as executor:
+			for img in chapter_imgs:
+				executor.submit(download_img, img, path, num)
+				num += 1
 
-				filename = f'page_{i}.jpg'
+		print(f'Chapter {chapter_number} Downloaded!\n')
 
-				with open(path+filename,'wb') as f:
-					shutil.copyfileobj(r.raw, f)
-
-				print(f'\tPage {i} Downloaded')
-			else:
-				print(f'\tPage {i} Couldn\'t be retreived')
-			i += 1
-		print(f'Chapter {i} Downloaded!\n')
-
-download_manga_from_list()
-
-# download_manga_from_list_txt()
+# download_manga_from_list()

@@ -446,3 +446,327 @@ JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is 
 JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
 JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
 1594674992631	Marionette	INFO	Stopped listening on port 32903
+1594694060736	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileke0GN9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1594694077729	Marionette	INFO	Listening on port 45143
+1594694077851	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594694116399	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoO0z92"
+1594694118764	Marionette	INFO	Stopped listening on port 45143
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594694122939	Marionette	INFO	Listening on port 39213
+1594694123020	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594694135508	Marionette	INFO	Stopped listening on port 39213
+1594694236208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8gVBeo"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594694241469	Marionette	INFO	Listening on port 36835
+1594694241531	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594694284253	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSeXMUi"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594694289554	Marionette	INFO	Listening on port 37731
+1594694289580	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594694290948	Marionette	INFO	Stopped listening on port 36835
+1594694336723	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoN74cc"
+1594694339570	Marionette	INFO	Stopped listening on port 37731
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594694342714	Marionette	INFO	Listening on port 32871
+1594694342745	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594694424383	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCDce8D"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594694429813	Marionette	INFO	Listening on port 45191
+1594694429903	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594694434127	Marionette	INFO	Stopped listening on port 45191
+1594694467211	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemdED9j"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594694472229	Marionette	INFO	Listening on port 39047
+1594694472335	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: https://jsc.adskeeper.co.uk/m/a/mangareader.net.909319.js, line 1: TypeError: t.document.body is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: https://jsc.mgid.com/m/a/mangareader.net.905961.js, line 1: TypeError: t.document.body is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594695314929	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelR9cTc"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594695320522	Marionette	INFO	Listening on port 45317
+1594695320557	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594695479277	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesMezn0"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594695484562	Marionette	INFO	Listening on port 42991
+1594695484593	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594695697567	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilef712dq"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594695702868	Marionette	INFO	Listening on port 39113
+1594695702887	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594695702951	Marionette	INFO	Stopped listening on port 39113
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 115: Error: Unknown callback
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 370: UnknownError: IDBDatabase.transaction: Can't start IndexedDB transaction during shutdown
+1594695724872	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9LFjEF"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594695730604	Marionette	INFO	Listening on port 42671
+1594695730691	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: https://jsc.adskeeper.co.uk/m/a/mangareader.net.909317.js, line 1: TypeError: t.document.body is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594695859943	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoBfHnx"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594695865458	Marionette	INFO	Listening on port 35995
+1594695865561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: https://jsc.adskeeper.co.uk/m/a/mangareader.net.909317.js, line 1: TypeError: t.document.body is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594695914873	Marionette	INFO	Stopped listening on port 35995
+1594696046233	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0GHdOg"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594696051766	Marionette	INFO	Listening on port 36693
+1594696051850	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: https://jsc.mgid.com/m/a/mangareader.net.905961.js, line 1: TypeError: t.document.body is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594696101069	Marionette	INFO	Stopped listening on port 36693
+1594696146389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLU67L8"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594696151719	Marionette	INFO	Listening on port 38961
+1594696151805	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594696371537	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletdBrO5"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594696377061	Marionette	INFO	Listening on port 43655
+1594696377159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594696777750	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYhopW7"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594696783465	Marionette	INFO	Listening on port 36445
+1594696783576	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: https://jsc.mgid.com/m/a/mangareader.net.905961.js, line 1: TypeError: t.document.body is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+1594696848031	Marionette	INFO	Stopped listening on port 36445
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
