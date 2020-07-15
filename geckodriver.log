@@ -1265,3 +1265,54 @@ JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is 
 JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
 JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
 JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1594852600298	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyD5wS2"
+*** You are running in headless mode.
+1594852614412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiWEF0W"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594852620084	Marionette	INFO	Listening on port 43549
+1594852620417	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: https://jsc.adskeeper.co.uk/m/a/mangareader.net.909313.js, line 1: TypeError: t.document.body is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: https://jsc.mgid.com/m/a/mangareader.net.905961.js, line 1: TypeError: t.document.body is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
+JavaScript error: http://ad.mangareader.net/js/ads.js, line 6: TypeError: ax is null
