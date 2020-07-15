@@ -4,22 +4,8 @@ import shutil # to save it locally
 import json
 import concurrent.futures
 
-# old way to do threads:
-
-'''
-# import threading
-
-threads = list()
-for img in chapter_imgs:
-	aux = threading.Thread(target=download_img, args=(img, path, num))
-	threads.append(aux)
-	aux.start()
-	num += 1
-
-for index, thread in enumerate(threads):
-	thread.join()
-'''
-
+def get_home_dir():
+	return os.path.expanduser('~')
 
 def create_dir(dir_name):
 	if not os.path.isdir(dir_name):
@@ -35,7 +21,6 @@ def download_img(img, path, num):
 
 		filename = f'page_{num}.jpg'
 
-
 		with open(path+filename,'wb') as f:
 			shutil.copyfileobj(r.raw, f)
 
@@ -50,7 +35,7 @@ def download_manga_from_list():
 	manga_name = manga_data['manga_name']
 	chapters = manga_data['chapters']
 
-	home = os.path.expanduser('~')
+	home = get_home_dir()
 
 	for chapter in chapters:
 		chapter_id = list(chapter.keys())[0]
